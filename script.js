@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
 const modal = document.getElementById("myModal");
-const btn = document.getElementById("open-modal-btn");
+const btn = document.getElementById("openModal");
 const closeBtn = document.getElementById("close-btn");
 
 btn.onclick = () => {
